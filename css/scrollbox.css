@@ -1,0 +1,26 @@
+.scrollbox {position: relative;}
+
+.scrollbox_content {
+	margin-right: 20px;
+}
+
+.scrollbox_scrollbar {
+	background-color: silver;
+	border-left: solid black 1px;
+	height: 100%;
+	width: 20px;
+}
+
+.scrollbox_up_button {
+	background: transparent url(../images/scroll_up_button.jpg) top right no-repeat;
+	height: 20px;
+}
+
+.scrollbox_down_button {
+	background: transparent url(../images/scroll_down_button.jpg) top right no-repeat;
+	height: 20px;
+}
+
+.scrollbox_handle {
+	background-color: #33CC33;
+}
